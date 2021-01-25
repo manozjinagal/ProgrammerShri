@@ -29,5 +29,13 @@
 
 <!-- This section you create this variables that are used above -->
 [website]: https://google.com
-[twitter]: https://twitter.com/indrajeet_nikam
-[linkedin]: https://www.linkedin.com/in/indrajeet-nikam-3737a8101/
+[twitter]: https://twitter.com/programmershri
+[linkedin]: https://www.linkedin.com/in/programmershri/
+
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+</a>

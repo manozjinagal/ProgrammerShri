@@ -17,10 +17,10 @@
 ## About MySelf...
 - 🔭 I’m currently working on - ReactJS
 - 🌱 I’m currently learning - React Native and Python
-- 👯 I’m looking to collaborate with - Other 
-- 💬 Ask me about - ❔❔❔❔
+<!-- 👯 I’m looking to collaborate with -  -->
+- 💬 Ask me about - Anything 
 - 🥅 2021 Goal - Become a Full Stack React Developer
-- ⚡ Fun fact - ❔❔❔❔
+<!-- ⚡ Fun fact - ❔❔❔❔ -->
 
 <br />
 

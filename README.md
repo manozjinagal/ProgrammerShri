@@ -38,7 +38,7 @@
 <br />
 <br />
 
-##Github Stats
+## Github Stats
 <!-- ❔❔❔❔ means username in below README.md -->
 <!-- Also feel free to update second URL to any URL -->
 [![Shrikant's github stats](https://github-readme-stats.vercel.app/api?username=ProgrammerShri&count_private=true&include_all_commits=true&theme=tokyonight)](https://www.linkedin.com/in/programmershri/)
@@ -46,7 +46,7 @@
 <br />
 <br />
 
-## Top Used Languages 
+## Most Used Languages 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ProgrammerShri&layout=compact)](https://github.com/ProgrammerShri/github-readme-stats)
 
 

@@ -22,6 +22,7 @@
 - 🥅 2021 Goal - Become a Full Stack React Developer
 - ⚡ Fun fact - ❔❔❔❔
 
+<br />
 
 **Languages and Tools:**  
 
@@ -36,7 +37,6 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
 <br />
-<br />
 
 ## Github Stats
 <!-- ❔❔❔❔ means username in below README.md -->
@@ -44,9 +44,9 @@
 [![Shrikant's github stats](https://github-readme-stats.vercel.app/api?username=ProgrammerShri&count_private=true&include_all_commits=true&theme=tokyonight)](https://www.linkedin.com/in/programmershri/)
 
 <br />
-<br />
 
 ## Most Used Languages 
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ProgrammerShri&layout=compact)](https://github.com/ProgrammerShri/github-readme-stats)
 
 

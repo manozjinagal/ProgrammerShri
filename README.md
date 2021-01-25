@@ -20,6 +20,7 @@
 - 🥅 2021 Goal - Become a Full Stack React Developer
 <!-- ⚡ Fun fact - ❔❔❔❔ -->
 <!-- 👯 I’m looking to collaborate with -  -->
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
 <br />
 

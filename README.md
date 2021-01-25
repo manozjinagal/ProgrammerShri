@@ -13,6 +13,9 @@
 <!-- Also feel free to update second URL to any URL -->
 [![Shrikant's github stats](https://github-readme-stats.vercel.app/api?username=ProgrammerShri&count_private=true&include_all_commits=true&theme=tokyonight)](https://www.linkedin.com/in/programmershri/)
 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ProgrammerShri&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 ## Connect with me:
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]

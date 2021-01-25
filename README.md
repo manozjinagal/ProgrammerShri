@@ -1,6 +1,19 @@
 ### Hi, I'm Shrikant <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 [![Website](https://img.shields.io/badge/Text-Text-green?style=flat-square)](https://www.linkedin.com/in/programmershri/)
 
+<!-- Social Links -->
+
+<a href="https://twitter.com/abhisheknaiidu">
+  <img align="left" alt="Abhishek Naidu | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+</a>
+<a href="https://www.linkedin.com/in/abhisheknaiidu/">
+  <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
+
+<!-- Social Links -->
+
+![](https://visitor-badge.glitch.me/badge?page_id=ProgrammerShri)
+
 ## Your short description
 - 🔭 I’m currently working on - ReactJS
 - 🌱 I’m currently learning - React Native and Python

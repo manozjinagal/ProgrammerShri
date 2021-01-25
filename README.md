@@ -1,17 +1,17 @@
-### Hi, I'm Anonymous <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-[![Website](https://img.shields.io/badge/Text-Text-green?style=flat-square)](https://google.com)
+### Hi, I'm Shrikant <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+[![Website](https://img.shields.io/badge/Text-Text-green?style=flat-square)](https://www.linkedin.com/in/programmershri/)
 
 ## Your short description
 - 🔭 I’m currently working on - ReactJS
-- 🌱 I’m currently learning - ReactJs
-- 👯 I’m looking to collaborate with - ❔❔❔❔
+- 🌱 I’m currently learning - React Native and Python
+- 👯 I’m looking to collaborate with - Other 
 - 💬 Ask me about - ❔❔❔❔
-- 🥅 2021 Goal - Full Stack Developer
+- 🥅 2021 Goal - Become a Full Stack Developer
 - ⚡ Fun fact - ❔❔❔❔
 
 <!-- ❔❔❔❔ means username in below README.md -->
 <!-- Also feel free to update second URL to any URL -->
-[![Indrajeet's github stats](https://github-readme-stats.vercel.app/api?username=ProgrammerShri&count_private=true&include_all_commits=true&theme=radical)](https://google.com)
+[![Shrikant's github stats](https://github-readme-stats.vercel.app/api?username=ProgrammerShri&count_private=true&include_all_commits=true&theme=radical)](https://www.linkedin.com/in/programmershri/)
 
 ## Connect with me:
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]

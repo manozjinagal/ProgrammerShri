@@ -23,12 +23,12 @@
 <br />
 
 <!-- Optional if you have blogs -->
-## Latest blog posts:
+<!-- ## Latest blog posts: -->
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/anuraghazra/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ProgrammerShri)](https://github.com/ProgrammerShri/github-readme-stats)
 
 <!-- This section you create this variables that are used above -->
 [website]: https://google.com

@@ -12,7 +12,7 @@
 </a>
 
 <!-- Social Links -->
-
+<img src="https://gpvc.arturio.dev/sw-yx" alt="profile views"> •  
 ![](https://visitor-badge.glitch.me/badge?page_id=ProgrammerShri)
 
 ## About MySelf...

@@ -28,7 +28,7 @@
 <!-- BLOG-POST-LIST:END -->
 
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ProgrammerShri)](https://github.com/ProgrammerShri/github-readme-stats)
+<!-- [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ProgrammerShri)](https://github.com/ProgrammerShri/github-readme-stats) -->
 
 <!-- This section you create this variables that are used above -->
 [website]: https://google.com

@@ -27,15 +27,13 @@
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
+
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/anuraghazra/github-readme-stats)
+
 <!-- This section you create this variables that are used above -->
 [website]: https://google.com
 [twitter]: https://twitter.com/programmershri
 [linkedin]: https://www.linkedin.com/in/programmershri/
 
 
-<a href="https://github.com/ProgrammerShri/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ProgrammerShri&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/ProgrammerShri/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ProgrammerShri&repo=convoychat" />
-</a>
+

@@ -11,11 +11,9 @@
   <img align="left" alt="Shrikant's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
-<!-- Social Links -->
-<img src="https://gpvc.arturio.dev/sw-yx" alt="profile views"> •  
-![](https://visitor-badge.glitch.me/badge?page_id=ProgrammerShri)
+![](https://visitor-badge.glitch.me/badge?page_id=ProgrammerShri) •  
 
-## About MySelf...
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 - 🔭 I’m currently working on - ReactJS
 - 🌱 I’m currently learning - React Native and Python
 - 💬 Ask me about - Anything 
@@ -40,15 +38,31 @@
 <br />
 
 ## Github Stats
-<!-- ❔❔❔❔ means username in below README.md -->
-<!-- Also feel free to update second URL to any URL -->
 [![Shrikant's github stats](https://github-readme-stats.vercel.app/api?username=ProgrammerShri&count_private=true&include_all_commits=true&theme=tokyonight)](https://www.linkedin.com/in/programmershri/)
 
 <br />
 
 ## Most Used Languages 
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ProgrammerShri&layout=compact)](https://github.com/ProgrammerShri/github-readme-stats)
+
+
+<br />
+
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

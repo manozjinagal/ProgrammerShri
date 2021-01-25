@@ -3,23 +3,23 @@
 
 <!-- Social Links -->
 
-<a href="https://twitter.com/abhisheknaiidu">
-  <img align="left" alt="Abhishek Naidu | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+<a href="https://twitter.com/programmershri">
+  <img align="left" alt="Shrikant's | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
-<a href="https://www.linkedin.com/in/abhisheknaiidu/">
-  <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+<a href="https://www.linkedin.com/in/programmershri/">
+  <img align="left" alt="Shrikant's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
 <!-- Social Links -->
 
 ![](https://visitor-badge.glitch.me/badge?page_id=ProgrammerShri)
 
-## Your short description
+## My Short Description...
 - 🔭 I’m currently working on - ReactJS
 - 🌱 I’m currently learning - React Native and Python
 - 👯 I’m looking to collaborate with - Other 
 - 💬 Ask me about - ❔❔❔❔
-- 🥅 2021 Goal - Become a Full Stack Developer
+- 🥅 2021 Goal - Become a Full Stack React Developer
 - ⚡ Fun fact - ❔❔❔❔
 
 <!-- ❔❔❔❔ means username in below README.md -->
@@ -29,12 +29,14 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ProgrammerShri&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+
+<!--
 ## Connect with me:
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 <br />
-
+-->
 <!-- Optional if you have blogs -->
 <!-- ## Latest blog posts: -->
 <!-- BLOG-POST-LIST:START -->

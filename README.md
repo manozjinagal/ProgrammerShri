@@ -1,15 +1,36 @@
-<h1> ### Hi, I'm Shrikant <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">(https://vkn84527.github.io/Portfolio/) <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="80px"> </h1>
+<h1> ### Hi, I'm Shrikant <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="80px"> </h1>
 
 <!--  [![Website](https://img.shields.io/badge/Text-Text-green?style=flat-square)](https://www.github.com/in/programmershri/) -->
 
 <!-- Social Links -->
 
-<a href="https://twitter.com/programmershri">
-  <img align="left" alt="Shrikant's | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
-</a>
 <a href="https://www.linkedin.com/in/programmershri/">
-  <img align="left" alt="Shrikant's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left" alt="Shrikant's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
+<a href="https://twitter.com/programmershri">
+  <img align="left" alt="Shrikant | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
+<a href="https://t.me/ProgrammerShri">
+  <img align="left" alt="Shrikant's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
+</a>
+<a href="https://www.instagram.com/ProgrammerShri/">
+  <img align="left" alt="Shrikant's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
+<a href="https://www.facebook.com/ProgrammerShri">
+  <img align="left" alt="Shrikant's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+</a>
+<a href="https://www.hackerrank.com/ProgrammerShri">
+  <img align="left" alt="Shrtkant's HackerRank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />
+</a>
+<!-- 
+<a href="https://auth.geeksforgeeks.org/user/v_k_rawat/practice/">
+  <img align="left" alt="Shrtkant's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/geeksforgeeks.svg" />
+</a>
+<a href="https://leetcode.com/vkn84527/">
+  <img align="left" alt="Shrtkant's LeetCode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />
+</a> -->
+
 
 ![](https://visitor-badge.glitch.me/badge?page_id=ProgrammerShri) •  
 

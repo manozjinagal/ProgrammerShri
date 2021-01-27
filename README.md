@@ -1,4 +1,4 @@
-<h1> ### Hi, I'm Shrikant <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
+<h1> ### Hi, I'm Shrikant <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">(https://vkn84527.github.io/Portfolio/) <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="80px"> </h1>
 
 <!--  [![Website](https://img.shields.io/badge/Text-Text-green?style=flat-square)](https://www.github.com/in/programmershri/) -->
 

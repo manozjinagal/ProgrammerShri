@@ -63,12 +63,15 @@
 
 ## Github Stats
 <!--  [![Shrikant's github stats](https://github-readme-stats.vercel.app/api?username=ProgrammerShri&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight)](https://www.github.com/in/programmershri/) -->
-  <img src="https://github-readme-stats.vercel.app/api?username=ProgrammerShri&show_icons=true" alt="Programmer Shri Github Stats"></img>
+
+![Shrikant's GitHub stats](https://github-readme-stats.vercel.app/api?username=ProgrammerShri&show_icons=true&theme=radical)
+ <!-- <img src="https://github-readme-stats.vercel.app/api?username=ProgrammerShri&show_icons=true" alt="Programmer Shri Github Stats"></img> -->
 
 <br />
 
 ## Most Used Languages 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ProgrammerShri&layout=compact)](https://github.com//github-readme-stats)
+
 
 
 <br />

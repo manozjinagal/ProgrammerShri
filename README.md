@@ -37,8 +37,8 @@
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
-- 🔭 I’m currently working on - ReactJS
-- 🌱 I’m currently learning - React Native and Python
+- 🔭 I’m currently working on - ReactJS , C++
+- 🌱 I’m currently learning - Data Structure and Algorithm + Competitive Coding + Python
 - 💬 Ask me about - Anything 
 - 🥅 2021 Goal - Become a Full Stack React Developer
 <!-- ⚡ Fun fact - ❔❔❔❔ -->

@@ -62,6 +62,9 @@
 <br />
 
 ## Github Stats
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=programmershri&count_private=true)
+
 <!--  [![Shrikant's github stats](https://github-readme-stats.vercel.app/api?username=ProgrammerShri&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight)](https://www.github.com/in/programmershri/) -->
 
 ![Shrikant's GitHub stats](https://github-readme-stats.vercel.app/api?username=ProgrammerShri&show_icons=true&theme=radical)

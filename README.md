@@ -73,7 +73,7 @@
 <br />
 
 ## Coding Time Stats
-[[!Shrikant's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ProgrammerShri)](https://github.com/ProgrammerShri/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ProgrammerShri)]
 
 <br />
 

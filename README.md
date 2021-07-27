@@ -31,23 +31,22 @@
   <img align="left" alt="Shrtkant's LeetCode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />
 </a> -->
 
-
-![](https://visitor-badge.glitch.me/badge?page_id=ProgrammerShri) •  
+![](https://visitor-badge.glitch.me/badge?page_id=ProgrammerShri) •
 
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...
+
 - 🔭 I’m currently working on - ReactJS , C++
 - 🌱 I’m currently learning - Data Structure and Algorithm + Competitive Coding + Python
-- 💬 Ask me about - Anything 
+- 💬 Ask me about - Anything
 - 🥅 2021 Goal - Become a Full Stack React Developer
-<!-- ⚡ Fun fact - ❔❔❔❔ -->
-<!-- 👯 I’m looking to collaborate with -  -->
-
+  <!-- ⚡ Fun fact - ❔❔❔❔ -->
+  <!-- 👯 I’m looking to collaborate with -  -->
 
 <br />
 
-**Languages and Tools:**  
+**Languages and Tools:**
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
@@ -73,21 +72,20 @@
 <br />
 
 ## Coding Time Stats
+
 [![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ProgrammerShri)]
 
 <br />
 
-## Most Used Languages 
+## Most Used Languages
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ProgrammerShri&langs_count=8)](https://github.com//github-readme-stats)
-
-
 
 <br />
 
-
 <h1 align = 'Center'>Watch a 🐍 eating my contribution graph</h1>
 <p align="center">
-  <img src="https://github.com/sakshiisaxena/sakshiisaxena/blob/output/github-contribution-grid-snake.svg" alt="snake"></center>
+  <img src="https://github.com/programmershri/programmershri/workflows/github-user-contribution.svg" alt="snake"></center>
 </p>
 
 <br />
@@ -103,28 +101,6 @@ https://programmershri.web.app
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 <!--
 ## Connect with me:
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
@@ -137,7 +113,6 @@ https://programmershri.web.app
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
-
 <!-- [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ProgrammerShri)](https://github.com/ProgrammerShri/github-readme-stats) -->
 
 <!-- This section you create this variables that are used above
@@ -146,6 +121,3 @@ https://programmershri.web.app
 [linkedin]: https://www.linkedin.com/in/programmershri/
 
  -->
-
-
-

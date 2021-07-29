@@ -85,7 +85,7 @@
 
 <h1 align = 'Center'>Watch a 🐍 eating my contribution graph</h1>
 <p align="center">
-  <img src="https://github.com/programmershri/programmershri/workflows/github-user-contribution.svg" alt="snake"></center>
+  <img src="https://github.com/ProgrammerShri/ProgrammerShri/blob/output/github-contribution-grid-snake.svg" alt="snake"></center>
 </p>
 
 <br />

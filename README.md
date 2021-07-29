@@ -72,8 +72,8 @@
 <br />
 
 ## Coding Time Stats
-
-[![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ProgrammerShri)]
+<img src="https://github.com/ProgrammerShri/ProgrammerShri/blob/main/images/stat.svg" alt="ProgrammerShri WakaTime Activity"/>
+<!-- [![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ProgrammerShri)] -->
 
 <br />
 

@@ -35,6 +35,8 @@
 
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
+
+
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...
 
 - 🔭 I’m currently working on - ReactJS , C++
@@ -64,16 +66,12 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=programmershri&count_private=true)
 
-<!--  [![Shrikant's github stats](https://github-readme-stats.vercel.app/api?username=ProgrammerShri&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight)](https://www.github.com/in/programmershri/) -->
 
-<!--   ![Shrikant's GitHub stats](https://github-readme-stats.vercel.app/api?username=ProgrammerShri&show_icons=true&theme=radical) -->
- <!-- <img src="https://github-readme-stats.vercel.app/api?username=ProgrammerShri&show_icons=true" alt="Programmer Shri Github Stats"></img> -->
 
 <br />
 
 ## Coding Time Stats
 <img src="https://github.com/ProgrammerShri/ProgrammerShri/blob/main/images/stat.svg" alt="ProgrammerShri WakaTime Activity"/>
-<!-- [![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ProgrammerShri)] -->
 
 <br />
 
@@ -90,6 +88,12 @@
 
 <br />
 
+<p align="center">
+  <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" />
+</p>
+
+<br />
+
 <img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
 <br />
 
@@ -101,23 +105,3 @@ https://programmershri.web.app
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 
-<!--
-## Connect with me:
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-<br />
--->
-<!-- Optional if you have blogs -->
-<!-- ## Latest blog posts: -->
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
-<!-- [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ProgrammerShri)](https://github.com/ProgrammerShri/github-readme-stats) -->
-
-<!-- This section you create this variables that are used above
-[website]: https://google.com
-[twitter]: https://twitter.com/programmershri
-[linkedin]: https://www.linkedin.com/in/programmershri/
-
- -->

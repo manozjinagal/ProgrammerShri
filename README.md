@@ -27,6 +27,9 @@
 <a href="https://leetcode.com/ProgrammerShri/">
   <img align="left" alt="Shrtkant's LeetCode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />
 </a>
+<a href="https://codechef.com/ProgrammerShri/">
+  <img align="left" alt="Shrtkant's CodeChef" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codechef.svg" />
+</a>
 <a href="https://www.youtube.com/channel/UCjAuxXn_kj6eTh4J68QGz5g">
   <img align="left" alt="Shrtkant's Youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
 </a>

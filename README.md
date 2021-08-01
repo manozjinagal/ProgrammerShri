@@ -5,33 +5,34 @@
 
 <!-- Social Links -->
 
+
 <a href="https://www.linkedin.com/in/programmershri/">
-  <img align="left" alt="Shrikant's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" alt="Shrikant's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/linkedin.svg" />
 </a>
 <a href="https://twitter.com/programmershri">
-  <img align="left" alt="Shrikant | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+  <img align="left" alt="Shrikant | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/twitter.svg" />
 </a>
 <a href="https://t.me/ProgrammerShri">
-  <img align="left" alt="Shrikant's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
+  <img align="left" alt="Shrikant's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/telegram.svg" />
 </a>
 <a href="https://www.instagram.com/ProgrammerShri/">
-  <img align="left" alt="Shrikant's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+  <img align="left" alt="Shrikant's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/instagram.svg" />
 </a>
 <a href="https://www.facebook.com/ProgrammerShri">
-  <img align="left" alt="Shrikant's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+  <img align="left" alt="Shrikant's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/facebook.svg" />
 </a>
 <a href="https://www.hackerrank.com/ProgrammerShri">
-  <img align="left" alt="Shrtkant's HackerRank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />
+  <img align="left" alt="Shrtkant's HackerRank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/hackerrank.svg" />
 </a>
 </a>
 <a href="https://leetcode.com/ProgrammerShri/">
-  <img align="left" alt="Shrtkant's LeetCode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />
+  <img align="left" alt="Shrtkant's LeetCode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/leetcode.svg" />
 </a>
 <a href="https://codechef.com/ProgrammerShri/">
-  <img align="left" alt="Shrtkant's CodeChef" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codechef.svg" />
+  <img align="left" alt="Shrtkant's CodeChef" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/codechef.svg" />
 </a>
 <a href="https://www.youtube.com/channel/UCjAuxXn_kj6eTh4J68QGz5g">
-  <img align="left" alt="Shrtkant's Youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
+  <img align="left" alt="Shrtkant's Youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/youtube.svg" />
 </a>
 <!-- 
 <a href="https://auth.geeksforgeeks.org/user/v_k_rawat/practice/">

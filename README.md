@@ -23,13 +23,17 @@
 <a href="https://www.hackerrank.com/ProgrammerShri">
   <img align="left" alt="Shrtkant's HackerRank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />
 </a>
+</a>
+<a href="https://leetcode.com/ProgrammerShri/">
+  <img align="left" alt="Shrtkant's LeetCode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />
+</a>
+<a href="https://www.youtube.com/channel/UCjAuxXn_kj6eTh4J68QGz5g">
+  <img align="left" alt="Shrtkant's Youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
+</a>
 <!-- 
 <a href="https://auth.geeksforgeeks.org/user/v_k_rawat/practice/">
   <img align="left" alt="Shrtkant's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/geeksforgeeks.svg" />
-</a>
-<a href="https://leetcode.com/vkn84527/">
-  <img align="left" alt="Shrtkant's LeetCode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />
-</a> -->
+ -->
 
 ![](https://visitor-badge.glitch.me/badge?page_id=ProgrammerShri) •
 

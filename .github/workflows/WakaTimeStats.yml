@@ -1,9 +1,12 @@
-name: WakaTime status update 
+name: WakaTime Stats 
 
 on:
   schedule:
-    # Runs at 12 am  '0 0 * * *'  UTC
-    - cron: '1 0 * * *'
+    # every 6 hours
+    - cron: "0 */6 * * *"
+
+  workflow_dispatch:
+
 
 jobs:
   update-readme:
